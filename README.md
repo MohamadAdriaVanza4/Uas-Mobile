@@ -6,6 +6,4 @@
 Project ini merupakan sebuah tugas UAS mata kuliah ` pemrogramman mobile 1`, 
 
 berikut hasil outputnya: 
-https://github.com/MohamadAdriaVanza4/Uas-Mobile/assets/115931631/8088e572-2631-482b-ab69-f0c6d3a2c169
-
-    
+https://github.com/MohamadAdriaVanza4/Uas-Mobile/assets/115931631/0860f9e1-3a49-4906-9b07-2b12aa971ad0
